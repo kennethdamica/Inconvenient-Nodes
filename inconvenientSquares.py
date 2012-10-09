@@ -21,6 +21,7 @@ fpsClock = pygame.time.Clock()
 
 def main():
     pygame.init()
+
     
     N = 15
     SCALE = 20
